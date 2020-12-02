@@ -1,0 +1,104 @@
+{
+    "device": {
+      "id": "6f26eb03c8b191b51eaa4880bfa360eda557bd45",
+      "is_active": true,
+      "is_private_session": false,
+      "is_restricted": false,
+      "name": "pop-os",
+      "type": "Computer",
+      "volume_percent": 100
+    },
+    "shuffle_state": false,
+    "repeat_state": "off",
+    "timestamp": 1606891136063,
+    "context": null,
+    "progress_ms": 273166,
+    "item": {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+            },
+            "href": "https://api.spotify.com/v1/artists/1kNQXvepPjaPgUfeDAF2h6",
+            "id": "1kNQXvepPjaPgUfeDAF2h6",
+            "name": "You Me At Six",
+            "type": "artist",
+            "uri": "spotify:artist:1kNQXvepPjaPgUfeDAF2h6"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6qwklyZrZuJ7sQrRjGQAW8"
+        },
+        "href": "https://api.spotify.com/v1/albums/6qwklyZrZuJ7sQrRjGQAW8",
+        "id": "6qwklyZrZuJ7sQrRjGQAW8",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27341d60a08b5f161dc34634991",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0241d60a08b5f161dc34634991",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485141d60a08b5f161dc34634991",
+            "width": 64
+          }
+        ],
+        "name": "Sinners Never Sleep",
+        "release_date": "2011-01-01",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:6qwklyZrZuJ7sQrRjGQAW8"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+          },
+          "href": "https://api.spotify.com/v1/artists/1kNQXvepPjaPgUfeDAF2h6",
+          "id": "1kNQXvepPjaPgUfeDAF2h6",
+          "name": "You Me At Six",
+          "type": "artist",
+          "uri": "spotify:artist:1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 309840,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "GBAAA1100246"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4payoiaSRv250VgpYF7Qg4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4payoiaSRv250VgpYF7Qg4",
+      "id": "4payoiaSRv250VgpYF7Qg4",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Crash",
+      "popularity": 44,
+      "preview_url": "https://p.scdn.co/mp3-preview/fa8810d486ebc7865aacf64ec4d171df5b281ed9?cid=774b29d4f13844c495f206cafdad9c86",
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:4payoiaSRv250VgpYF7Qg4"
+    },
+    "currently_playing_type": "track",
+    "actions": {
+      "disallows": {
+        "resuming": true,
+        "skipping_prev": true,
+        "toggling_repeat_context": true,
+        "toggling_repeat_track": true,
+        "toggling_shuffle": true
+      }
+    },
+    "is_playing": true
+}
